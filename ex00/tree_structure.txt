@@ -1,0 +1,52 @@
+dev_workspace/:
+total 0
+drwxr-xr-x. 1 alahmed alahmed 42 Oct  1 10:21 .
+drwxr-xr-x. 1 alahmed alahmed 62 Oct  1 10:32 ..
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:21 archives
+drwxr-xr-x. 1 alahmed alahmed 22 Oct  1 10:22 projects
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:21 tools
+
+dev_workspace/archives:
+total 0
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:21 .
+drwxr-xr-x. 1 alahmed alahmed 42 Oct  1 10:21 ..
+
+dev_workspace/projects:
+total 0
+drwxr-xr-x. 1 alahmed alahmed 22 Oct  1 10:22 .
+drwxr-xr-x. 1 alahmed alahmed 42 Oct  1 10:21 ..
+drwxr-xr-x. 1 alahmed alahmed  6 Oct  1 10:22 projects
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:22 web
+
+dev_workspace/projects/projects:
+total 0
+drwxr-xr-x. 1 alahmed alahmed  6 Oct  1 10:22 .
+drwxr-xr-x. 1 alahmed alahmed 22 Oct  1 10:22 ..
+drwxr-xr-x. 1 alahmed alahmed 30 Oct  1 10:22 web
+
+dev_workspace/projects/projects/web:
+total 0
+drwxr-xr-x. 1 alahmed alahmed 30 Oct  1 10:22 .
+drwxr-xr-x. 1 alahmed alahmed  6 Oct  1 10:22 ..
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:22 backend
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:22 frontend
+
+dev_workspace/projects/projects/web/backend:
+total 0
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:22 .
+drwxr-xr-x. 1 alahmed alahmed 30 Oct  1 10:22 ..
+
+dev_workspace/projects/projects/web/frontend:
+total 0
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:22 .
+drwxr-xr-x. 1 alahmed alahmed 30 Oct  1 10:22 ..
+
+dev_workspace/projects/web:
+total 0
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:22 .
+drwxr-xr-x. 1 alahmed alahmed 22 Oct  1 10:22 ..
+
+dev_workspace/tools:
+total 0
+drwxr-xr-x. 1 alahmed alahmed  0 Oct  1 10:21 .
+drwxr-xr-x. 1 alahmed alahmed 42 Oct  1 10:21 ..
