@@ -1,0 +1,5 @@
+commit 3d99c787b36aefd0189eac7f1c1facdb9a4e5154
+Author: Ahmed Alshoubaki <ahmad7raed77@gmail.com>
+Date:   Thu Oct 1 19:01:32 2026 +0300
+
+    Add hello.txt
