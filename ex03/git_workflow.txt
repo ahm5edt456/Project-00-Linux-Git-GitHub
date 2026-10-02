@@ -1,0 +1,14 @@
+git status
+
+git add .
+
+git status
+
+git commit -m "Done the file"
+
+git log
+
+git push origin main
+
+
+Edit -> Add -> Commit -> Push
